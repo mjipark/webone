@@ -1,0 +1,111 @@
+
+.head-one{
+display: inline;
+margin-left: 30%;
+color: #91091e;
+
+}
+
+.head-two{
+  display: inline;
+  margin-left: 60px;
+  color: #91091e;
+
+}
+.image{
+  border-radius: 180px;
+  margin-left: 55px;
+  margin-top: 50px;
+  height: 175px;
+  width: 180px;
+
+}
+.div-one{
+  margin-top: 75px;
+  color: #91091e;
+  margin-left: : 25%;
+  font-size: 31px;
+}
+
+.div-top{
+  height: 600px;
+  background-color: #ffc764;
+}
+
+.btn {
+   background: #ff577f;
+   background-image: -webkit-linear-gradient(top, #ffc764, #91091e);
+   background-image: -moz-linear-gradient(top, #ffc764, #91091e);
+   background-image: -ms-linear-gradient(top, #ffc764, #91091e);
+   background-image: -o-linear-gradient(top, #ffc764, #91091e);
+   background-image: -webkit-gradient(to bottom, #ffc764, #91091e);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FCF8E8;
+   font-family: Courier New;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 48px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #91091e 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-left: 43%;
+   margin-top: 30px;
+}
+
+.btn:hover {
+   border: solid #91091e 1px;
+   background: #91091e;
+   background-image: -webkit-linear-gradient(top, #ffc764, #91091e);
+   background-image: -moz-linear-gradient(top, #ffc764, #91091e);
+   background-image: -ms-linear-gradient(top, #ffc764, #91091e);
+   background-image: -o-linear-gradient(top, #ffc764, #91091e);
+   background-image: -webkit-gradient(to bottom, #ffc764, #91091e);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.paragraph {
+  display: inline;
+  margin-left:40%;
+}
+.paragraph2 {
+
+ margin-left:40%;
+
+}
+
+.contact-space{
+  margin-bottom: 10px
+}
+.contact-message{
+  width: 100%;
+  height: 450px;
+  background-color: #f0c38e;
+  text-align: center;
+}
+.contact-address{
+  text-align: center;
+  background-color: #f1aa9b;
+  height: 750px;
+}
+.contact-line{
+margin-top: 20px;
+}
+.contact-map{
+
+width: 65%;
+height: 460px;
+
+}
+.heading-one{
+font-size: 30px;
+}
